@@ -20,3 +20,4 @@ Notes and usage details for gtm-skills.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
