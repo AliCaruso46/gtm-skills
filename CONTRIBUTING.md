@@ -25,3 +25,4 @@ Notes and usage details for gtm-skills.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- add a note about the defaults
